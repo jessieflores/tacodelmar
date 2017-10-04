@@ -5,7 +5,7 @@ body {
 }
 
 .ui.borderless.centered.menu {
-  background-color: #5C6B80;
+  background-color: #5c6b80;
   border: none;
   box-shadow: none;
 
@@ -28,4 +28,8 @@ body {
   color: rgb(252, 212, 117);
   font-family: "Lato";
   font-size: 20px
+}
+
+.container {
+  height: 10px;
 }
